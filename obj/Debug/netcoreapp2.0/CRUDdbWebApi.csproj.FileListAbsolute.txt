@@ -1,0 +1,11 @@
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\bin\Debug\netcoreapp2.0\CRUDdbWebApi.deps.json
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\bin\Debug\netcoreapp2.0\CRUDdbWebApi.runtimeconfig.json
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\bin\Debug\netcoreapp2.0\CRUDdbWebApi.runtimeconfig.dev.json
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\bin\Debug\netcoreapp2.0\CRUDdbWebApi.dll
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\bin\Debug\netcoreapp2.0\CRUDdbWebApi.pdb
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\obj\Debug\netcoreapp2.0\CRUDdbWebApi.csprojAssemblyReference.cache
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\obj\Debug\netcoreapp2.0\CRUDdbWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\obj\Debug\netcoreapp2.0\CRUDdbWebApi.AssemblyInfoInputs.cache
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\obj\Debug\netcoreapp2.0\CRUDdbWebApi.AssemblyInfo.cs
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\obj\Debug\netcoreapp2.0\CRUDdbWebApi.dll
+C:\Users\Srihari.haridasan\source\repos\CRUDdbWebApi\CRUDdbWebApi\obj\Debug\netcoreapp2.0\CRUDdbWebApi.pdb
